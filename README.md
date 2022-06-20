@@ -1,3 +1,9 @@
-# babajide234
-My page
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babajide234)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Babajide Tomoshegbo
+#### I am Front End developer 
+![I am Front End developer ]()
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  NEXT JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
