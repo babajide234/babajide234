@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Babajide!!</h1>
 
-<h3 align="left"> I'm from Nigeria, and I'm a Frontend Engineer. I really enjoy learning and buildiing beautiful websites with React</h3>
+<h3 align="left"> I'm from Nigeria, and I'm a Fullsatack Engineer. I really enjoy learning and buildiing beautiful websites with React</h3>
 
 
 - 🌱 I’m currently exploring **fields in blockchain technology.**
